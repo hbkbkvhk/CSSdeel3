@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+tr th.month-heading {
+    background-color: rgb(170, 170, 200);
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+th {
+    background-color: rgb(35, 37, 70);
+    color: rgb(200, 190, 240);
+}
+
+td {
+    background-color: #fff;
+}
+
+
+td:first-child,td:last-child {
+    background-color:
+            rgb(255, 220, 220);
+}
+
+
+
+
+
+
+
+
+.holiday{
+    background-color: rgb(250,120,120);
+}
